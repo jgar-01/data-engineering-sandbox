@@ -8,7 +8,7 @@ A production-grade, end-to-end SQL data pipeline built to ingest, clean, transfo
 
 \## 🚀 Project Overview
 
-Raw data is notoriously messy. This project simulates a real-world data engineering workflow: moving unstructured raw data through a cleaning and type-casting pipeline, and finally materializing an analytics-ready layer to generate actionable market insights.
+Since raw data is notoriously messy. This project aims to simulate a real-world data engineering workflow: moving unstructured raw data through a cleaning and type-casting pipeline, and finally materializing an analytics-ready layer to generate actionable market insights.
 
 
 
